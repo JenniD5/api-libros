@@ -18,7 +18,7 @@ namespace libros_api.Controllers
         {
             new Libros
             {
-                Titulo = "Homero",
+                Titulo = "Hola",
                 
             },
         };
